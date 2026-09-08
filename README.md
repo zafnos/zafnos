@@ -6,10 +6,10 @@ I'm a [student] passionate about cybersecurity. I love building [type of project
 - [Project or initiative]
 
 ### 🌱 Currently Learning
-- [Technology or skill]
+- Programming, Cybersec
 
 ### 💻 Tech Stack
-- Languages: Python, JavaScript, TypeScript
+- Languages: Python, JavaScript, C, C++
 - Frameworks: React, Node.js
 - Tools: Git, Docker, AWS
 
