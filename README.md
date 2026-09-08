@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**zafnos/zafnos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [student] passionate about cybersecurity. I love building [type of projects] and contributing to [type of communities].
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- [Project or initiative]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- [Technology or skill]
+
+### 💻 Tech Stack
+- Languages: Python, JavaScript, TypeScript
+- Frameworks: React, Node.js
+- Tools: Git, Docker, AWS
+
+### 📫 Connect With Me
+- Email: socialzafnos@gmail.com
+- LinkedIn: https://www.linkedin.com/feed/
+- Twitter: [@handle]
+
+### ⚡ Fun Fact
+[Something interesting about you]
