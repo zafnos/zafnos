@@ -1,22 +1,3 @@
-## Hi there 👋
+## Software Engineering Student | Learning Logic, Algorithms, C, and JavaScript | Seeking experience 👋
 
-I'm a [student] passionate about cybersecurity. I love building [type of projects] and contributing to [type of communities].
-
-### 🔭 Currently Working On
-- [Project or initiative]
-
-### 🌱 Currently Learning
-- Programming, Cybersec
-
-### 💻 Tech Stack
-- Languages: Python, JavaScript, C, C++
-- Frameworks: React, Node.js
-- Tools: Git, Docker, AWS
-
-### 📫 Connect With Me
-- Email: socialzafnos@gmail.com
-- LinkedIn: https://www.linkedin.com/feed/
-- Twitter: [@handle]
-
-### ⚡ Fun Fact
-[Something interesting about you]
+I'm a student passionate about cybersecurity.
